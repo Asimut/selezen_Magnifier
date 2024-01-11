@@ -29,7 +29,7 @@ function addCssToHead(cssRules) {
   
   addCssToHead(css);
   
-  function nrzMagnify(image_) {
+  function selezenMG(image_) {
     const magnifier = document.createElement('div');
     magnifier.id = 'magnifier';
     document.body.appendChild(magnifier);
